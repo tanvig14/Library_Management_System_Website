@@ -1,0 +1,90 @@
+#lib{
+position: absolute;
+top: 52px;
+left: 2px;
+width: 1531px;
+opacity: 0.90;
+height: 679px;
+z-index: -1;
+}
+
+a{
+text-decoration: none;
+color: #000;
+}
+
+#header{
+width: 250px;
+top: -14px;
+font-size: 16px;
+left: 56px;
+font-family: sans-serif;
+position: absolute;
+}
+
+#buttons{
+position: absolute;
+top: 0px;
+left: 2px;
+width: 1529px;
+background-color: #d7dce5;
+height: 51px;
+border: 1px solid black;
+}
+
+button{
+border: none;
+font-family: cursive;
+background-color: #d7dce5;
+padding: 12px 32px;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+width: 100px;
+height: 50px;
+cursor: pointer;
+position: absolute;
+color: black;
+}
+
+.home{
+left: 1382px;
+width: 147px;
+}
+
+.home:hover{
+background-color: #b2b8c4;
+}
+
+#picsignup{
+position: absolute;
+top: 158px;
+left: 604px;
+height: 109px;
+width: 300px;
+}
+
+#align{
+position: absolute;
+left: 75px;
+}
+
+#main{
+height: 675px;
+width: 1517px;
+}
+
+#form{
+position: absolute;
+top: 265px;
+height: 355px;
+width: 300px;
+left: 604px;
+background-color: white;
+}
+
+#signup{
+position: absolute;
+top: 15px;
+left: 15px;
+}

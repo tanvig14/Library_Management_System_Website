@@ -1,0 +1,89 @@
+#watermark{
+position: absolute;
+top: 52px;
+left: 2px;
+width: 1532px;
+opacity: 0.90;
+height: 679px;
+z-index: -1;
+}
+
+a{
+text-decoration: none;
+color: #000;
+}
+
+#header{
+width: 250px;
+top: -14px;
+font-size: 16px;
+left: 56px;
+font-family: sans-serif;
+position: absolute;
+}
+
+#buttons{
+position: absolute;
+top: 0px;
+left: 2px;
+width: 1530px;
+background-color: #d7dce5;
+height: 51px;
+border: 1px solid black;
+}
+
+button{
+border: none;
+font-family: cursive;
+background-color: #d7dce5;
+padding: 12px 32px;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+width: 100px;
+height: 50px;
+cursor: pointer;
+position: absolute;
+color: black;
+}
+
+.signout{
+left: 1382px;
+width: 147px;
+}
+
+.signout:hover{
+background-color: #b2b8c4;
+}
+
+.home{
+left: 1280px;
+}
+
+.home:hover{
+background-color: #b2b8c4;
+}
+
+#form{
+position: absolute;
+top: 102px;
+height: 585px;
+width: 470px;
+left: 518px;
+background-color: #d0d4d7;
+}
+
+#signup{
+position: absolute;
+top: 15px;
+left: 17px;
+width: 435px;
+height: 558px;
+text-align: center;
+}
+
+#suggestions{
+margin: 0px;
+width: 407px;
+height: 60px;
+}

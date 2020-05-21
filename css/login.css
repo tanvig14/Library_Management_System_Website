@@ -1,0 +1,100 @@
+#lib{
+position: absolute;
+top: 52px;
+left: 2px;
+width: 1532px;
+opacity: 0.90;
+height: 679px;
+z-index: -1;
+}
+
+a{
+text-decoration: none;
+color: #000;
+}
+
+#header{
+width: 250px;
+top: -14px;
+font-size: 16px;
+left: 56px;
+font-family: sans-serif;
+position: absolute;
+}
+
+#buttons{
+position: absolute;
+top: 0px;
+left: 2px;
+width: 1530px;
+background-color: #d7dce5;
+height: 51px;
+border: 1px solid black;
+}
+
+button{
+border: none;
+font-family: cursive;
+background-color: #d7dce5;
+padding: 12px 32px;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+width: 100px;
+height: 50px;
+cursor: pointer;
+position: absolute;
+color: black;
+}
+
+.home{
+left: 1382px;
+width: 147px;
+}
+
+.home:hover{
+background-color: #b2b8c4;
+}
+
+#align{
+position: absolute;
+left: 78px;
+}
+
+#main{
+height: 675px;
+width: 1517px;
+}
+
+#form{
+position: absolute;
+top: 330px;
+height: 172px;
+width: 300px;
+left: 604px;
+background-color: white;
+}
+
+#login{
+position: absolute;
+top: 35px;
+left: 15px;
+}
+
+#logpic{
+position: absolute;
+background-color: #F99B1D;
+top: 231px;
+left: 604px;
+height: 99px;
+width: 300px;
+}
+
+#logtext{
+font-family: sans-serif;
+left: 86px;
+bottom: -8px;
+text-size-adjust: 30px;
+font-size: 46px;
+position: absolute;
+}
